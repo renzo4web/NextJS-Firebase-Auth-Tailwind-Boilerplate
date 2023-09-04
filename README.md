@@ -51,6 +51,10 @@ This implementation uses the [Firebase Admin SDK](https://firebase.google.com/do
 Route Handlers to manage the user session in the server
 
 
+### Recommended packages
+
+- [React Firebase Hooks](https://github.com/csfrequency/react-firebase-hooks)
+
 ### Contrubuting
 
 Feel free to open an issue or submit a pull request if you find any bug or have a suggestion.
